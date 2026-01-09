@@ -3,11 +3,7 @@
 Penetration Tester focused on web security, Active Directory attacks and building small tools for my workflow.
 
 <p align="center">
-  <img 
-    src="https://i.pinimg.com/736x/d0/14/9b/d0149b49be6ccdf5cf2211729fdf59d1.jpg"
-    width="280"
-    alt="Kenpachi"
-  >
+  <img src="https://i.pinimg.com/736x/d0/14/9b/d0149b49be6ccdf5cf2211729fdf59d1.jpg" width="280" alt="Kenpachi">
 </p>
 ## What I do
 - Pentesting  
