@@ -2,7 +2,7 @@
 
 Penetration Tester focused on web security, Active Directory attacks and building small tools for my workflow.
 
-![its supose to have a kenpachi's picture here](https://www.pinterest.com/rajicuros/kenpachi-zaraki/)
+![its supose to have a kenpachi's picture here](https://i.pinimg.com/736x/d0/14/9b/d0149b49be6ccdf5cf2211729fdf59d1.jpg)
 ## What I do
 - Pentesting  
 - Threat Hunting & OSINT  
