@@ -7,13 +7,12 @@ Penetration Tester focused on web security, Active Directory attacks and buildin
 </p>
 
 ## What I do
-- Pentesting  
-- Threat Hunting & OSINT  
-- Study Offsec things  
+- Pentesting
+- Study Offsec things
 
 ## Interests
-- Web exploitation  
-- AD security  
+- Web exploitation
+- AD security
 - EDR/AV Bypass
 - Code Obfuscation
 
